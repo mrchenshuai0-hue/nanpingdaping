@@ -1,0 +1,5 @@
+{
+  "name": "南平市局大屏展示集成系统demo",
+  "description": "基于Iframe桥接与动态懒加载技术的4K超高清大屏轮播展示系统，支持自动切换、平滑过渡及侧边分类菜单。",
+  "requestFramePermissions": []
+}
